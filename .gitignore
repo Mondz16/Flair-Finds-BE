@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS-specific
+.DS_Store
+
+# Upload folder (optional, if images should not be versioned)
+uploads/
+
+# IDE folders
+.vscode/
+.idea/
